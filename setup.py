@@ -19,7 +19,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-closuretree',
-    version='0.0.1', #__VERSION__,
+    version='1.1.11', #__VERSION__,
     packages=find_packages(),
     author='Mike Bryant',
     author_email='mike.bryant@ocado.com',
